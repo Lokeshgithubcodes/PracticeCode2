@@ -22,5 +22,10 @@ namespace PracticePrograms
 
 
         }
+
+        public class Demo
+        {
+
+        }
     }
 }
