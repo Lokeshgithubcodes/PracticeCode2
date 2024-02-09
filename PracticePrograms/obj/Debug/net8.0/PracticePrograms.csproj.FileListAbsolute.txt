@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net8.0\PracticePrograms.exe
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net8.0\PracticePrograms.deps.json
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net8.0\PracticePrograms.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net8.0\PracticePrograms.dll
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net8.0\PracticePrograms.pdb
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.dll
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\refint\PracticePrograms.dll
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.pdb
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\ref\PracticePrograms.dll
+C:\Users\Ramisettylokesh\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net8.0\PracticePrograms.sourcelink.json
